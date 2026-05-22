@@ -1,10 +1,10 @@
 #!/bin/bash
 #
 # Linux Bash Cleaner - Web Server Temizleyici
-# Geliştirici: sedatabase
-# Versiyon: 2.0.0
-# Güncelleme Tarihi: 26.01.2026
-# GitHub: https://github.com/sedatabase/linuxbashcleaner
+# Geliştirici: Sedat Yıldız
+# Versiyon: 2.1.0
+# Güncelleme Tarihi: 22.05.2026
+# GitHub: https://github.com/sedatyildiznet/linuxbashcleaner
 #
 
 # Renk tanımlamaları

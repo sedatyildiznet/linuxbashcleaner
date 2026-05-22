@@ -5,6 +5,7 @@
 ![Version](https://img.shields.io/badge/version-2.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Linux-lightgrey.svg)
+<img src="https://img.shields.io/liberapay/patrons/sedat.svg?logo=liberapay">
 
 **Hosting sunucularında gereksiz dosyaları otomatik olarak temizleyen profesyonel bash script**
 
@@ -98,7 +99,7 @@ Hosting firmalarının en büyük sorunlarından biri, müşterilerin hosting he
 
 ```bash
 cd /root
-wget https://raw.github.com/sedatabase/linuxbashcleaner/master/temizlikci.sh
+wget https://raw.github.com/sedatyildiznet/linuxbashcleaner/master/temizlikci.sh
 chmod +x temizlikci.sh
 bash temizlikci.sh
 ```
@@ -108,8 +109,8 @@ bash temizlikci.sh
 1. Script dosyalarını indirin:
 ```bash
 cd /root
-wget https://raw.github.com/sedatabase/linuxbashcleaner/master/temizlikci.sh
-wget https://raw.github.com/sedatabase/linuxbashcleaner/master/temizlikci-cron.sh
+wget https://raw.github.com/sedatyildiznet/linuxbashcleaner/master/temizlikci.sh
+wget https://raw.github.com/sedatyildiznet/linuxbashcleaner/master/temizlikci-cron.sh
 ```
 
 2. Çalıştırma yetkisi verin:
@@ -394,8 +395,8 @@ Katkılarınızı bekliyoruz! Lütfen:
 
 ## 📞 Destek ve İletişim
 
-- **Geliştirici**: sedatabase
-- **GitHub**: [sedatabase/linuxbashcleaner](https://github.com/sedatabase/linuxbashcleaner)
+- **Geliştirici**: sedatyildiznet
+- **GitHub**: [sedatyildiznet/linuxbashcleaner](https://github.com/sedatyildiznet/linuxbashcleaner)
 - **Sorun Bildirimi**: GitHub Issues kullanın
 
 ---
@@ -440,6 +441,6 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 
 **⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın! ⭐**
 
-Made with ❤️ by sedatabase
+Made with ❤️ by sedatyildiznet
 
 </div>
